@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "31de250eb3ebe981",
+    "type": "split",
+    "children": [
+      {
+        "id": "a04158c196cf0af1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "U-Boot.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeb05d433eb11f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2d67624faf838f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774bb3e31df2a692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf79fb05a0007227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "a864428409f02df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "545cc6c781fd9267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87e1bf60e30f8f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U-Boot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a04158c196cf0af1",
+  "lastOpenFiles": [
+    "U-Boot.md",
+    "Part 1 Get Started/Buildroot Configuration/Configuration Other Components.md",
+    "Part 1 Get Started/Buildroot Configuration/init System.md",
+    "Part 1 Get Started/Buildroot Configuration/Configuration.md",
+    "Part 1 Get Started/Buildroot Configuration/dev Managment.md",
+    "Image, uImage, zImage.md",
+    "Images/System Configuration-dev-managment.png",
+    "Images/Toolchain-Menuconfig.png",
+    "Part 1 Get Started/System Requirements.md",
+    "Part 1 Get Started/Buildroot Quick Start.md"
+  ]
+}

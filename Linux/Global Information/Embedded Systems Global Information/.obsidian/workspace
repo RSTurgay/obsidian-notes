@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ef8204ae4ee3b8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d556de7db4e021",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bootlin Documents/Training Metarials/Buildroot/Managing the build and the configuration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e4d091cdc0ddacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dac4bdcf2ce6dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772aa4e49205c4aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e459ee57f5fbb7e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382
+  },
+  "right": {
+    "id": "7a7d7110a4e9cd90",
+    "type": "split",
+    "children": [
+      {
+        "id": "a27628edbc4c8be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adcee901aae2fdea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bootlin Documents/Training Metarials/Buildroot/Managing the build and the configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48d556de7db4e021",
+  "lastOpenFiles": [
+    "Bootlin Documents/Training Metarials/Buildroot/Managing the build and the configuration.md",
+    "Bootlin Documents/Training Metarials/Partical Lab With Build Root.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Önemli Sayfalar.md",
+    "Bootlin Documents/Training Metarials/Practical lab.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Embedded Linux System Development.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Flash Storage And Filesystems.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Block Filesystems.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Using Kernel Modules.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/U-Boot Bootloader.md",
+    "Bootlin Documents/Training Metarials/Embedded Linux/Toolchain.md"
+  ]
+}

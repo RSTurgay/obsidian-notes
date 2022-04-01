@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "113aec406ab9e848",
+    "type": "split",
+    "children": [
+      {
+        "id": "700d0044a7eab57b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kernel Configuration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03ea1afede0ac082",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1b9b1389bd81f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b65154ace16da2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0fc448c29be52a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182
+  },
+  "right": {
+    "id": "7bafc5416f67b5f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb8cc4fd2b93b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c1dbc509aa4193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kernel Configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "700d0044a7eab57b",
+  "lastOpenFiles": [
+    "Kernel Configuration.md",
+    "BootlinKernelNotes.md",
+    "Linux Sorce Structure.md"
+  ]
+}

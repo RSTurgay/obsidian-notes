@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "7ff7ebb0a99b278e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6622561b3abc9ebc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FDISK Usage.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e5373a88f0369c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c539f2329475de67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ad5cdc8b6bc79d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b87f76d04f98d9fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddfec11cf59175b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbbadef3fa76e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d28ccec0a0f002",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FDISK Usage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6622561b3abc9ebc",
+  "lastOpenFiles": [
+    "FDISK Usage.md"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5cafd9d404c65459",
+    "type": "split",
+    "children": [
+      {
+        "id": "e514490d3b13f794",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "eMMC-SD Mode.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c790d7b695c8c24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f3d41cfc1916619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef91578c0b6bd57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a55a279be3d1ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 191
+  },
+  "right": {
+    "id": "999741b42f6596ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b76a2865e34fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642e4f95712e335d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eMMC-SD Mode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e514490d3b13f794",
+  "lastOpenFiles": [
+    "eMMC-SD Mode.md",
+    "NAND Mode.md",
+    "BAD CRC.md",
+    "DDR-SRAM Mode.md",
+    "DTB File.md",
+    "Imgaes/Pasted image 20220326223141.png",
+    "Accepted file formats.md",
+    "[1. Loader Type.md",
+    "SPI Mode.md",
+    "Imgaes/Pasted image 20220326214116.png"
+  ]
+}
